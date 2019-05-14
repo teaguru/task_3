@@ -1,0 +1,4 @@
+function generate() {
+    var arr = [];
+    
+}
